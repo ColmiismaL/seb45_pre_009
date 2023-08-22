@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ColmiismaL/seb45_pre_009/static/css/main.6d1df23e.css",
-    "main.js": "/ColmiismaL/seb45_pre_009/static/js/main.3e3e6e23.js",
+    "main.js": "/ColmiismaL/seb45_pre_009/static/js/main.05db367b.js",
     "index.html": "/ColmiismaL/seb45_pre_009/index.html",
     "main.6d1df23e.css.map": "/ColmiismaL/seb45_pre_009/static/css/main.6d1df23e.css.map",
-    "main.3e3e6e23.js.map": "/ColmiismaL/seb45_pre_009/static/js/main.3e3e6e23.js.map"
+    "main.05db367b.js.map": "/ColmiismaL/seb45_pre_009/static/js/main.05db367b.js.map"
   },
   "entrypoints": [
     "static/css/main.6d1df23e.css",
-    "static/js/main.3e3e6e23.js"
+    "static/js/main.05db367b.js"
   ]
 }
